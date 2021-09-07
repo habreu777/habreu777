@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @habreu777
 - 👀 I’m interested in python programming, and working with Linux
 - 🌱 I’m currently learning learning Python and ReactJS
-- 💞️ I’m looking to collaborate on PYthon automarion
+- 💞️ I’m looking to collaborate on Python automation
 - 📫 How to reach me: just email me ...
 
 <!---
